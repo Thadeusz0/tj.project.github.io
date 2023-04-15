@@ -21,7 +21,7 @@
             left: 0;
             right: 0;
             bottom: 0;
-            background-image: url('https://github.com/Thadeusz0/tj.project.github.io/blob/main/TJ_Project_TJ');
+            background-image: url('https://github.com/Thadeusz0/tj.project.github.io/blob/main/Black%20and%20White%20Vintage%20Gym%20and%20Fitness%20Logo.png');
             background-size: cover;
             background-position: center;
             opacity: 0.5;
